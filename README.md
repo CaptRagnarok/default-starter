@@ -79,3 +79,6 @@ Library/Faster Approach
 #### Box Shadow
 
 - [tailwind](https://tailwindcss.com/docs/box-shadow)
+
+
+Forked from John Smilga, great starter styles and resource links.
