@@ -81,4 +81,6 @@ Library/Faster Approach
 - [tailwind](https://tailwindcss.com/docs/box-shadow)
 
 
-Forked from John Smilga, great starter styles and resource links.
+---
+
+*Forked from **John Smilga**, great starter styles and resource links.*
